@@ -1,8 +1,8 @@
-# baba-is-more (v1.0)
-Baba is more is a baba is you levelpack, including most levels in baba is you, the museum and new adventures and over 300 extra levels.804/27/20 is 100%. It also suits for who haven't played baba is you before. Hope you like it!
+# baba-is-more (v1.1)
+Baba is more is a baba is you levelpack, including most levels in baba is you, the museum and new adventures and over 300 extra levels.834/25/22 is 100%. It also suits for who haven't played baba is you before. Hope you like it!
 
 
-screenshots (the 21st bonus is a mistake!) :
+screenshots from v1.0 (the 21st bonus is a mistake!) :
 
 map:
 ![Baba Is You 2023_1_4 13_14_02](https://user-images.githubusercontent.com/121780838/210492131-1a1137c0-765c-4ddb-aff4-dd4820ec2211.png)
